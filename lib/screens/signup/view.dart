@@ -72,23 +72,23 @@ class SignupScreen extends StatelessWidget {
                             style: TextStyle(
                                 fontSize: 16.sp, color: Color(0xffFFFFFF)),
                           )),
-                      SizedBox(height: 24),
-                      Center(
-                        child: Text.rich(
-                          TextSpan(children: [
-                            TextSpan(
-                                text:LocaleKeys.alreadyHaveAnAccount.tr(),
-                                style: TextStyle(color: Color(0xff707070))),
-                            WidgetSpan(
-                                child: InkWell(
-                                    onTap: () {},
-                                    child: Text(LocaleKeys.login.tr(),
-                                        style: TextStyle(
-                                            color: Color(0xffFC6011)))))
-                          ]),
-                          style: TextStyle(fontSize: 14.sp),
-                        ),
-                      )
+                      // SizedBox(height: 24),
+                      // Center(
+                      //   child: Text.rich(
+                      //     TextSpan(children: [
+                      //       TextSpan(
+                      //           text:LocaleKeys.alreadyHaveAnAccount.tr(),
+                      //           style: TextStyle(color: Color(0xff707070))),
+                      //       WidgetSpan(
+                      //           child: InkWell(
+                      //               onTap: () {},
+                      //               child: Text(LocaleKeys.login.tr(),
+                      //                   style: TextStyle(
+                      //                       color: Color(0xffFC6011)))))
+                      //     ]),
+                      //     style: TextStyle(fontSize: 14.sp),
+                      //   ),
+                      // )
                     ])))));
   }
 }
