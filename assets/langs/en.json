@@ -1,0 +1,37 @@
+{
+  "weHaveSentEnOTPToYourMobile":"We have sent an OTP to your Mobile",
+  "hintReset": "Please check your mobile number 071*****12 \n continue to reset your password",
+  "next":" Next",
+  "didNotReceive":"Didn't Receive?",
+  "clickHere": "Click Here",
+  "login": "login",
+  "forgotYourPassword": "Forgot your password?",
+  "loginWithGoogle": "Login with Google",
+  "doNotHaveAnAccount": "Don't have an Account?",
+  "signup": "Sign Up",
+  "weHaveSentAnOTPToYourMobile": "We have sent an OTP\n to your Mobile",
+  "hintActiveCode": "Hint Active Code",
+  "resetPassword": "Reset Password",
+  "pleaseEnterYourEmailToReceiveLinkToCreateAnewPasswordViaEmail": "Please enter your email to receive a \nlink to  create a new password via email",
+  "email": "Email",
+  "send": "Send",
+  "signUp": "Sign Up",
+  "addYourDetailsToSignUp": "Add your details to sign up",
+  "name": "Name",
+  "mobileNo": "Mobile No",
+  "address": "Address",
+  "password": "Password",
+  "confirmPassword": "Confirm Password",
+  "alreadyHaveAnAccount": "Already  have an Account?",
+  "findFoodYouLove": "Find Food You Love",
+  "fastDelivery": "Fast Delivery",
+  "liveTracking": "Live Tracking",
+  "discoverTheBestFoodsFromOver1000RestaurantsAndFastDeliveryToYourDoorstep": "Discover the best foods from over 1,000 \n restaurants and fast delivery to your doorstep",
+  "fastFoodDeliveryToYourHomeOfficeWhereverYouAre": "Fast food delivery to your home,\n office wherever you are",
+  "realTimeTrackingOfYourFoodOnTheAppOnceYouPlacedTheOrder": "Real time tracking of your food on the app\n once you placed the order",
+  "loginWithFacebook": "Login with Facebook",
+  "newPassword": "New Password"
+
+
+
+}

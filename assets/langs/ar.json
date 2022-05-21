@@ -1,0 +1,36 @@
+{
+  "weHaveSentEnOTPToYourMobile":"لقد تم ارسال رسالة الي رقمك ",
+  "hintRest": "من فضلك راجع الرسالة علي رقم الهاتف 0100*****17 ",
+  "next":" التالي",
+  "didNotReceive":"لم تصل ؟",
+  "clickHere": "اضغط هنا",
+  "login": "تسجيل الدخول",
+  "forgotYourPassword": "هل نسيت الباسورد",
+  "loginWithGoogle": "الدخول باستحدام جوجل",
+  "doNotHaveAnAccount": "ليس لديك حساب؟",
+  "weHaveSentAnOTPToYourMobile": "لقد ارسلنا رسالة الي هاتفك المحمول",
+  "hintActiveCode": "يرجي التحقق من رقم هاتفك 071*****12 وقم باعادة تعيين كلمة المرور",
+  "resetPassword": "اعادة تعيين كلمة المرور",
+  "pleaseEnterYourEmailToReceiveLinkToCreateAnewPasswordViaEmail": "من فضلك قم بادخال بريدك الالكتروني للتسجيل",
+  "email": "الايميل",
+  "send": "ارسال",
+  "signUp": "تسجيل الخروج",
+  "addYourDetailsToSignUp": "سجل بيانتك للخروج",
+  "name": "الاسم",
+  "mobileNo": "رقم الموبيل",
+  "address": "العنوان",
+  "password": "الباسورد",
+  "confirmPassword": "تاكيد كلمة المرور",
+  "alreadyHaveAnAccount": "لديك حساب بالفعل؟",
+  "findFoodYouLove": "الحصول علي طعامك المفضل",
+  "fastDelivery": "التوصيل السريع",
+  "liveTracking": "تتبع مباشر",
+  "discoverTheBestFoodsFromOver1000RestaurantsAndFastDeliveryToYourDoorstep": "اكتشف افضل الاطعمة من اكثر من 1000 مطعم وتوصيل سريع الي باب بيتك",
+  "fastFoodDeliveryToYourHomeOfficeWhereverYouAre": "توصيل وجبات سريعة اليك اينما كنت ",
+  "realTimeTrackingOfYourFoodOnTheAppOnceYouPlacedTheOrder": "تتبع طعامك في الوقت الحقيقي علي التطبيق بمجرد تقديم الطلب",
+  "loginWithFacebook": "الدخول باستخدام الفيسبوك",
+  "newPassword": "كلمة مرور جديدة"
+
+
+
+}
